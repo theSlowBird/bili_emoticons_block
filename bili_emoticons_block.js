@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         干掉b站指定快捷表情包
+// @name         干掉b站写评论时的指定表情包
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  干掉b站写评论的时候的指定表情包，比如2024年度表情，以让自己的爱音大头表情包显示在第一页
