@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         干掉b站写评论时的指定表情包
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  干掉b站写评论的时候的指定表情包，比如2024年度表情，以让自己的爱音大头表情包显示在第一页
 // @author       betterer
 // @match        *://*.bilibili.com/*
@@ -34,7 +34,7 @@
   // });
 
   // 默认需要移除的表情包
-  const removeTexts = ['2024年度表情', '颜文字', 'tv_小电视', '热词系列一'];
+  const removeTexts = ['2024年度表情', '颜文字', 'tv_小电视', '热词系列一', '小黄脸'];
 
   // 保存原始fetch函数
   const originalFetch = window.fetch;
