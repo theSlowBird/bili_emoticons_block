@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         干掉b站写评论时的指定表情包
 // @namespace    http://tampermonkey.net/
-// @version      1.0.2
+// @version      1.0.3
 // @description  干掉b站写评论的时候的指定表情包，比如2024年度表情，以让自己的爱音大头表情包显示在第一页
 // @author       betterer
 // @match        *://*.bilibili.com/*
@@ -14,7 +14,7 @@
 (function () {
   'use strict';
 
-  // 改不对，非常抱歉，求大佬指点
+  // 做不出用户界面，只能手动去下面的removeTexts数组里面修改需要移除的表情包
   // @grant        GM_getValue
   // @grant        GM_setValue
   // @grant        GM_registerMenuCommand
