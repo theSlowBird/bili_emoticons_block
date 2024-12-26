@@ -5,7 +5,7 @@
 // @description  干掉b站写评论的时候的指定表情包，比如2024年度表情，以让自己的爱音大头表情包显示在第一页
 // @author       betterer
 // @match        *://*.bilibili.com/*
-// @icon         https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @license      MIT
 // @grant        none
 // @run-at       document-start
